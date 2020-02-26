@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: Fever Dreams in the Empire State
 permalink: /about/
 ---
 
-Fever Dreams in the Empire State
+
