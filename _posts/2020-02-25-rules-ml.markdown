@@ -76,7 +76,7 @@ Getting all these right early is key, and having a simple model that is easy to 
 
 Getting to a great performing model doesn’t happen in a single launch. As such, you should plan to iterate on improving model quality. Increase iteration speed by investing in tools for the various stages in an iteration. (Analyze -> Train -> Deploy -> Measure)
 
-### 6. Invest in model understanding/interpretability, monitoring, and diagnosing model mispredictions
+### 6. Invest in understanding your model
 
 Understanding how different input feature values and data distributions affect your model’s predictions will help with issues like algorithmic fairness. It can also help you make an informed choice for limiting it to data that it performs well on.
 This is still relatively nascent in terms of open source tooling. A couple of good places to look are Google’s [What-If tool](https://ai.googleblog.com/2018/09/the-what-if-tool-code-free-probing-of.html), and FB’s [Captum](https://captum.ai).
