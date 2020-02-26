@@ -5,6 +5,8 @@ date:   2020-02-25 19:07:29 -0400
 categories: ml
 ---
 
+{:toc}
+
 # The Current Landscape
 
 Due to the recent explosion of interest around machine learning, many companies are investing to deploy it across their product suites.
