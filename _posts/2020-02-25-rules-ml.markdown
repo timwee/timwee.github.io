@@ -46,7 +46,7 @@ Deep domain knowledge and understanding of the systems will also help in choosin
 
 Another subtle issue that shows up surprisingly often is delayed feedback, where the response to the model’s predictions is delayed.
 
-Even in the digital advertising world, where ML is widely used, most systems don’t account for the distribution of time for delayed conversions. In a [2014 paper from Criteo](http://olivier.chapelle.cc/pub/delayedConv.pdf), they showed that creating a proper model that accounts for delayed ad conversions increases performance by 3-5%, which is significant in that domain. In Criteo’s case, while 35% of the conversions occurred within 1 hour of the click, the rest of them happened much later. (50% after 24 hours, and 13% after 2 weeks)
+Even in the digital advertising world where the use of ML is more mature, most systems don’t account for the distribution of time for delayed conversions. In a [2014 paper from Criteo](http://olivier.chapelle.cc/pub/delayedConv.pdf), they showed that creating a proper model that accounts for delayed ad conversions increases performance by 3-5%, which is significant in that domain. In Criteo’s case, while 35% of the conversions occurred within 1 hour of the click, the rest of them happened much later. (50% after 24 hours, and 13% after 2 weeks)
 
 These problems can easily be prevented by someone who has the complete picture of what the model expects, and the system for where it will be used and deployed.
 
