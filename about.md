@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fever Dreams in the Empire State
+title: About
 permalink: /about/
 ---
 
