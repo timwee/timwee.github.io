@@ -7,7 +7,7 @@ categories: ml
 
 {:toc}
 
-# The Current Landscape
+# Introduction
 
 Due to the recent explosion of interest around machine learning, many companies are investing to deploy it across their product suites.
 Some of the excitement is warranted. Machine learning has enabled [new use cases](https://www.youtube.com/watch?v=AtFZv-IuVwQ) and [products](https://ai.facebook.com/blog/facebook-ai-year-in-review-2019/), as well as improving cost structures by [optimizing existing systems](https://www.datacenterknowledge.com/google-alphabet/google-switching-self-driving-data-center-management-system). 
