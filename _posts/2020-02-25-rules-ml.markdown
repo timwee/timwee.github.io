@@ -1,0 +1,98 @@
+---
+layout: post
+title:  "7 Rules For Building ML Systems - A Guide for Product Owners"
+date:   2020-02-25 19:07:29 -0400
+categories: ml
+---
+
+# The Current Landscape
+
+Due to the recent explosion of interest around machine learning, many companies are investing to deploy it across their product suites.
+Some of the excitement is warranted. Machine learning has enabled [new use cases](https://www.youtube.com/watch?v=AtFZv-IuVwQ) and [products](https://ai.facebook.com/blog/facebook-ai-year-in-review-2019/), as well as improving cost structures by [optimizing existing systems](https://www.datacenterknowledge.com/google-alphabet/google-switching-self-driving-data-center-management-system). 
+
+Adoption of ML has gone beyond big tech companies and startups. In a [November 2019 study](https://www.mckinsey.com/featured-insights/artificial-intelligence/global-ai-survey-ai-proves-its-worth-but-few-scale-impact), McKinsey estimates that ML adoption has grown by 25% YoY in the enterprise, and 44% of adopters say that ML has reduced costs.
+
+However, despite the success stories, machine learning is still too immature of a technology to use as a black box. In 2019, the [IDC reported](https://www.businesswire.com/news/home/20190708005039/en/) that enterprise ML projects have a 50% failure rate.
+
+Off-the-shelf tools mainly focus on making it easy to train machine learning models, and don’t address the complexity and nuance involved with deploying and maintaining these models. A machine learning model is just the tip of the iceberg for many commercial machine learning systems. 
+
+The mismatch between hype and reality of machine learning has increasingly caused misallocated investment and unfulfilled expectations, which leads to disillusionment among product owners and company executives.
+
+This doesn’t have to be the case. By asking a few questions and following some ground rules, product owners can increase the success of their machine learning initiatives.
+
+
+# Rules of the Road for Building ML Systems
+
+### 1. Do you really need machine learning?
+
+Due to ML being the shiny new toy, engineers and product owners are more inclined to use ML when a simpler solution would suffice.
+Most problems can be handled by simple heuristic rules and don’t require an ML model.
+
+**As a rule of thumb**, consider machine learning only when your heuristic rules start getting more complex.
+
+### 2. Have at least one person with a strong understanding of ML, your business, and your systems
+
+When companies hire ML practitioners or consultants, they frequently task them to focus exclusively on building models without giving them a full picture of the product and systems.
+
+This is a mistake that can cause a lot of downstream problems.
+
+As an example, a frequent cause of failure for machine learning deployments is a mismatch between the metrics that the model is optimizing and the actual success metrics for the product and the business.
+
+There can also be differences in the data available online for the model compared to the training data fed into the model offline. (sometimes called training-serving skew)
+
+Deep domain knowledge and understanding of the systems will also help in choosing input features for the model, as well as avoiding subtle pitfalls like [label leakage](https://www.kaggle.com/dansbecker/data-leakage).
+
+Another subtle issue that shows up surprisingly often is delayed feedback, where the response to the model’s predictions is delayed.
+
+Even in the digital advertising world, where ML is widely used, most systems don’t account for the distribution of time for delayed conversions. In a [2014 paper from Criteo](http://olivier.chapelle.cc/pub/delayedConv.pdf), they showed that creating a proper model that accounts for delayed ad conversions increases performance by 3-5%, which is significant in that domain. In Criteo’s case, while 35% of the conversions occurred within 1 hour of the click, the rest of them happened much later. (50% after 24 hours, and 13% after 2 weeks)
+
+These problems can easily be prevented by someone who has the complete picture of what the model expects, and the system for where it will be used and deployed.
+
+### 3. Software engineering is just as important as machine learning in ML systems
+
+Most of the problems you will face in building a machine learning system are in fact software engineering problems.
+
+In a paper titled [“Machine learning, the High Interest Credit Card of Technical Debt”](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf), ML practitioners at Google go through some of their hard-won lessons for maintaining machine learning systems, and they underscore the need for having strong software engineering practices.
+
+Solid ML infrastructure will become invaluable as you go beyond the first iteration of a model.
+Building tooling that takes care of versioning and deploying models, monitoring, logging, as well as the ability to scale well (sublinearly) with increasing amounts of data requires mostly software engineering skills.
+
+Beyond infrastructure, software engineering has also developed methods for maintaining programs and systems over time. **Evolving systems through time and changes is one of the core differences between software engineering and programming, and the same distinction applies to building a production-ready machine learning system vs just training machine learning models.**
+
+Successful long-running ML products mostly consist of software engineers that understand ML, and only a smattering of ML specialists and research scientists.
+
+### 4. Test out the pipes with a simple model.
+
+A production machine learning system consists of a lot of moving parts besides the model.
+
+You need online instrumentation to gather data from your system, and pipelines to extract and transform that data for training the model.
+You also need to do the equivalent data transformations online in the model’s deployment environment, and make sure the distributions of the data match online and offline.
+
+Getting all these right early is key, and having a simple model that is easy to debug helps tremendously. Otherwise, it can get tricky to figure out where things are going wrong once you deploy a more complex model that’s hard to debug.
+
+### 5. Plan to iterate, and invest to increase iteration speed
+
+Getting to a great performing model doesn’t happen in a single launch. As such, you should plan to iterate on improving model quality. Increase iteration speed by investing in tools for the various stages in an iteration. (Analyze -> Train -> Deploy -> Measure)
+
+### 6. Invest in model understanding/interpretability, monitoring, and diagnosing model mispredictions
+
+Understanding how different input feature values and data distributions affect your model’s predictions will help with issues like algorithmic fairness. It can also help you make an informed choice for limiting it to data that it performs well on.
+This is still relatively nascent in terms of open source tooling. A couple of good places to look are Google’s [What-If tool](https://ai.googleblog.com/2018/09/the-what-if-tool-code-free-probing-of.html), and FB’s [Captum](https://captum.ai).
+
+Similarly, being able to debug model mispredictions quickly requires some upfront investment in telemetry and logging the right metadata, and being able to sift through logs quickly.
+
+Monitoring can also help with early detection of issues, including subtler issues like [concept drift](https://www.optimizely.com/optimization-glossary/aa-testing/), which can happen slowly over time.
+
+### 7. Think of ML as an ongoing service, not as one-time capex investment
+
+It is tempting to stop investing in machine learning once the model reaches an acceptable steady state, but whether the systems are dealing with fraud, language, or human attention, the world does not remain static.
+
+ML is only effective when it is able to model salient parts of the world that are relevant to your problem. For ML systems to continue to perform well, they require ongoing investment to monitor and see if the assumptions that went in to build the model still hold.
+
+# Summary
+
+Despite showing a lot of promise, machine learning is still in the early innings of a transition from research topic to production technology. 
+Using machine learning well requires going beyond hiring strong ML talent. It needs domain knowledge about the business, as well as solid infrastructure and tooling.
+
+Firms who are able to put these ingredients together will invariably have an advantage in the marketplace. Recent years have seen machine learning drive the software industry forward, and as software goes beyond our computers and phones, intelligent products will increasingly become the norm.
+
