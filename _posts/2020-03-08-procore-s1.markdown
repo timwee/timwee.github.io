@@ -70,6 +70,11 @@ Much of the industry still relies on paper, email, and fax.
 
 The strongest competitor is probably AutoDesk. (the new-ish CEO is [focusing on proptech](https://www.forbes.com/sites/alexkonrad/2018/11/12/blueprint-for-remodel-why-design-software-pioneer-autodesk-is-betting-its-future-on-construction-tech/#483f492758e3)) AutoDesk [acquired PlanGrid (a YC company), Assemble Systems, and BuildingConnected](https://www.forbes.com/sites/alexkonrad/2018/12/20/why-autodesk-just-spent-115-billion-on-two-construction-tech-startups/#64ee09e32ab9).
 
+AutoCad's AEC (Architecture, Engineering, and Construction) vertical earned $358M in the last quarter of 2019, but [their current product mix](https://www.autodesk.com/collections/architecture-engineering-construction/overview) is not quite comparable to Procore's.
+
+From AutoCad's 10-Q 2019 (Ending 10/2019):
+![autocad_aec_2019]({{ site.url }}/assets/procore/autocad_aec_2019.png)
+
 # Financials
 
 The company’s revenue mainly comes from subscriptions to its software. The subscriptions are on a fixed-fee basis, and Procore does not charge per-seat or per-project.
