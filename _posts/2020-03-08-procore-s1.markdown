@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ProCore S-1 Notes"
+title:  "Notes on ProCore's S-1"
 date:   2020-03-08 12:07:29 -0400
 categories: investing
 ---
