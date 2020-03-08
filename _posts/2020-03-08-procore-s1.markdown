@@ -133,7 +133,14 @@ Some good links:
 **EV/NTM**
 ![valuation]({{ site.url }}/assets/procore/valuation.png)
  
+# Verdict
 
+Procore has cracked an industry that has significant barriers to entry. 
+Moreover, they are on their way to being the system of record for the construction industry, and have trememndous potential to be a platform company.
+
+The construction industry shows no signs of slowing down, and the company should continue to grow at 30+% in the coming years ahead.
+
+I am looking to add shares if the company is valued at $4.5B or less.
 
 # Resources
 * [2018 article with company founding history](https://www.forbes.com/sites/alexkonrad/2018/09/12/how-procore-built-the-clouds-hottest-unicorn-bringing-software-to-low-tech-construction-sites/#12daf63b575a)
