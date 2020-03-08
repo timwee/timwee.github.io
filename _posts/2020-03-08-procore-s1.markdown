@@ -7,6 +7,12 @@ categories: investing
 
 {:toc}
 
+# Intro
+
+ProCore [just filed their paperwork with the SEC to go public](https://www.constructiondive.com/news/procore-files-ipo-paperwork-with-sec/573461/).
+
+In my opinion, they are one of the most promising vertical SAAS companies with a lot of runaway to grow. These are my notes from reading their S-1 filing.
+
 # Company Background
 
 Procore is a construction software company, focused on enabling collaboration between the various stakeholders of a typical construction project. (owners, architects, general contractors, specialty contractors, engineers)
