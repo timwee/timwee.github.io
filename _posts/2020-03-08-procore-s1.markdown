@@ -90,7 +90,7 @@ From AutoDesk's 10-Q 2019 (Ending 10/2019):
 
 # Financials
 
-The company’s revenue mainly comes from subscriptions to its software. The subscriptions are on a fixed-fee basis, and ProCore does not charge per-seat or per-project.
+The company’s revenue mainly comes from subscriptions to its software. The subscriptions are on a fixed-fee basis. (based on number of products used and the fixed aggregate dollar volum of construction work contracted to run on the platform) ProCore does not charge per-seat or per-project.
 
 ## TAM
 
