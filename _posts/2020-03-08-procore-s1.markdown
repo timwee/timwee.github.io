@@ -122,16 +122,23 @@ The company has a net rentention rate of 117% in 2019, (125% in 2017 and 121% in
 
 
 
-## SAAS Rule of 40
+## SaaS Rule of 40
 
-Some good links:
+The rule of 40 is a handy shortcut for evaluating SaaS companies. It's meant to be a metric that balances growth and profits and serve as a filter to find fast growing companies that are doing it sustainably.
+
+Some good links about the Rule of 40:
 * [Brad Feld's Rule of 40 for a successful company](https://feld.com/archives/2015/02/rule-40-healthy-saas-company.html)
 * [Tomas Tunguz's followup post with some comparables](https://tomtunguz.com/rule-of-40/)
 
 **Growth rate + profit >= 40**
 
-```PCOR (using revenue growth and operating margin): 55% + (-28.6%) = ~27```
+ProCore doesn't quite meet the Rule of 40, though it was close in 2018.
 
+2018:
+```PCOR (using revenue growth and operating margin): 66% + (-30) = ~36```
+
+2019:
+```PCOR (using revenue growth and operating margin): 55% + (-28.6%) = ~27```
 
 # Valuation
 
