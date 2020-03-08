@@ -90,7 +90,7 @@ Gross margins have been around 80+% for the past 2 years, and operating margin a
 
 The company has a net rentention rate of 117% in 2019, (125% in 2017 and 121% in 2018) which is above the median of recent SAAS IPOs.
 
-Net retention rate is ARR + upgrades - churn - downgrades.
+```Net retention rate = ARR + upgrades - churn - downgrades.```
 
 (The table of comparable net retention rates below is from a 2019 Blossom Ventures post)
 
@@ -103,7 +103,11 @@ Net retention rate is ARR + upgrades - churn - downgrades.
 
 18-19 (better than median of 20)
 
+
+### ProCore's CAC and Sales Efficiency
 ![cac_payback]({{ site.url }}/assets/procore/cac_payback.png)
+
+### Comparables for Implied Months to Pay Back
 ![cac_payback_comparable]({{ site.url }}/assets/procore/cac_payback_comparable.png)
 
 
