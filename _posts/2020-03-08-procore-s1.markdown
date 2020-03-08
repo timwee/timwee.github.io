@@ -15,13 +15,13 @@ The company is one of the most promising vertical SAAS players with a lot of run
 
 # Company Background
 
-Procore is a construction software company, focused on enabling collaboration between the various stakeholders of a typical construction project. (owners, architects, general contractors, specialty contractors, engineers)
+ProCore is a construction software company, focused on enabling collaboration between the various stakeholders of a typical construction project. (owners, architects, general contractors, specialty contractors, engineers)
 
 CEO and founder Craig Courtemanche started the company in 2002, [scratching his own itch](https://www.forbes.com/sites/alexkonrad/2018/09/12/how-procore-built-the-clouds-hottest-unicorn-bringing-software-to-low-tech-construction-sites/#5489173c575a) when he was renovating his house in Santa Barbara.
 
-While Santa Barbara is not a hotbed for tech startups, they have plenty of Bay Area and Los Angeles refugees looking for a quieter lifestyle. According to a talk that he gave in 2015, current company president and early investor [Steve Zahm found out about Procore when he moved to Santa Barbara](https://youtu.be/CLKh1gCpyN4?t=669) after selling his own company DigitalThink for $120 million.
+While Santa Barbara is not a hotbed for tech startups, they have plenty of Bay Area and Los Angeles refugees looking for a quieter lifestyle. According to a talk that he gave in 2015, current company president and early investor [Steve Zahm found out about ProCore when he moved to Santa Barbara](https://youtu.be/CLKh1gCpyN4?t=669) after selling his own company DigitalThink for $120 million.
 
-It took the company [7 years of R&D](https://youtu.be/CLKh1gCpyN4?t=818) before getting traction. It’s hard to get internet in construction sites back in 2002 when Procore started, and initially Courtemanche and Zahm had a hard time raising money. When the 2008 crisis hit, Courtemanche mortgaged his house, and along with Zahm, cut his salary to zero. All but 5 employees were laid off.
+It took the company [7 years of R&D](https://youtu.be/CLKh1gCpyN4?t=818) before getting traction. It’s hard to get internet in construction sites back in 2002 when ProCore started, and initially Courtemanche and Zahm had a hard time raising money. When the 2008 crisis hit, Courtemanche mortgaged his house, and along with Zahm, cut his salary to zero. All but 5 employees were laid off.
 
 The overall construction and housing market slowly improved, and the introduction of the iPad and the increasing ubiquity of the internet helped the company gain traction. 
 
@@ -34,7 +34,7 @@ The now 1,900-strong company has filed to go public in February 2020, and will t
 
 ![ecosystem]({{ site.url }}/assets/procore/ecosystem.png)
 
-Procore started as a collaboration product for construction stakeholders, but has since gone on to introduce additional services for digitizing the various steps of the construction lifecycle.
+ProCore started as a collaboration product for construction stakeholders, but has since gone on to introduce additional services for digitizing the various steps of the construction lifecycle.
 
 The platform is increasingly becoming the system of record for customer projects, which helps increase switching costs for customers.
 
@@ -46,8 +46,9 @@ The company has also introduced an app store, which currently has 180 3rd party 
 
 In 2019, the average length of a construction project was ~20 months, and on average each customer invited over 170 project participants. These project participants are not all paying customers, in 2019, the company estimates that 60% out of the 1.3 million users who logged in were collaborators.
 
-Procore believes that these collaborators can become potential paying customers of the platform in the future, though they didn’t provide any numbers around this conversion rate.
-Procore runs on AWS.
+ProCore believes that these collaborators can become potential paying customers of the platform in the future, though they didn’t provide any numbers around this conversion rate.
+
+ProCore runs on AWS. I couldn't find more details about how much they spend on the cloud platform. 
 
 The S-1 contains a chart of product introductions superimposed on customer growth numbers.
 
@@ -75,27 +76,27 @@ ProCore makes back it's customer acquisition cost in 18-19 months. (The public c
 
 # Industry landscape
 
-The construction industry represented 13% of global GDP and ~7% of the workforce in 2017. (from [Procore’s S-1](https://sec.report/Document/0001193125-20-057081/#d564161ds1.htm))
+The construction industry represented 13% of global GDP and ~7% of the workforce in 2017. (from [ProCore’s S-1](https://sec.report/Document/0001193125-20-057081/#d564161ds1.htm))
 Much of the industry still relies on paper, email, and fax. 
 
 ## Rivals
 
 The strongest competitor is probably AutoDesk. (the new-ish CEO is [focusing on proptech](https://www.forbes.com/sites/alexkonrad/2018/11/12/blueprint-for-remodel-why-design-software-pioneer-autodesk-is-betting-its-future-on-construction-tech/#483f492758e3)) AutoDesk [acquired PlanGrid (a YC company), Assemble Systems, and BuildingConnected](https://www.forbes.com/sites/alexkonrad/2018/12/20/why-autodesk-just-spent-115-billion-on-two-construction-tech-startups/#64ee09e32ab9).
 
-AutoDesk's AEC (Architecture, Engineering, and Construction) vertical earned $358M in the last quarter of 2019, but [their current product mix](https://www.autodesk.com/collections/architecture-engineering-construction/overview) is not quite comparable to Procore's.
+AutoDesk's AEC (Architecture, Engineering, and Construction) vertical earned $358M in the last quarter of 2019, but [their current product mix](https://www.autodesk.com/collections/architecture-engineering-construction/overview) is not quite comparable to ProCore's.
 
 From AutoDesk's 10-Q 2019 (Ending 10/2019):
 ![autocad_aec_2019]({{ site.url }}/assets/procore/autocad_aec_2019.png)
 
 # Financials
 
-The company’s revenue mainly comes from subscriptions to its software. The subscriptions are on a fixed-fee basis, and Procore does not charge per-seat or per-project.
+The company’s revenue mainly comes from subscriptions to its software. The subscriptions are on a fixed-fee basis, and ProCore does not charge per-seat or per-project.
 
 ## TAM
 
 The company estimates a ~$9.4B TAM for their current products, based on their median ARR and an estimate of total addressable customers.
 
-Based on this report, Procore estimates that they are only 2% penetrated among their total customer base.
+Based on this report, ProCore estimates that they are only 2% penetrated among their total customer base.
 
 Only 11.3% of revenue came from outside the United States, which can also represent a significant opportunity for growth.
 
@@ -107,7 +108,7 @@ The company has seen a 41% and 40% increase in customers during 2018 and 2019. M
 
 The company has grown revenue by 66% in 2018 and 55% in 2019. ( $112.3 million in 2017, $186.4 million in 2018, and $289.2 million in 2019)
 
-63% of revenue growth in 2019 came from existing customers. Revenue growth is mainly driven by customers subscribing to additional products, since Procore does not charge extra for additional users or projects.
+63% of revenue growth in 2019 came from existing customers. Revenue growth is mainly driven by customers subscribing to additional products, since ProCore does not charge extra for additional users or projects.
 
 Gross margins have been around 80+% for the past 2 years, and operating margin around (-30%).
 
@@ -139,7 +140,7 @@ Some good links:
  
 # Verdict
 
-Procore has cracked an industry that has significant barriers to entry. 
+ProCore has cracked an industry that has significant barriers to entry. 
 Moreover, they are on their way to being the system of record for the construction industry, and has tremendous potential to be a platform company.
 
 While there are some short-term headwinds with a potential economic slowdown (due to the coronavirus), the construction industry will continue to grow, and the company should continue to grow at 30+% in the coming years ahead.
