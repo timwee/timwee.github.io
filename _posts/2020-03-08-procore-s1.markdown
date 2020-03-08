@@ -61,6 +61,18 @@ Since Procore doesn’t charge for additional users and projects, they can only 
 Procore sells through a direct sales team that is segmented by customer size. They utilize an inside sales model for smaller customers, and a field sales team for larger ones.
 Sales commissions are amortized on a straight-line basis over 4 years.
 
+### Sales efficiency (implied months to pay back) 
+
+ProCore makes back it's customer acquisition cost in 18-19 months. (The public company SAAS median benchmark is 20 months)
+
+
+#### ProCore's CAC and Sales Efficiency
+![cac_payback]({{ site.url }}/assets/procore/cac_payback.png)
+
+#### Comparables for Implied Months to Pay Back
+![cac_payback_comparable]({{ site.url }}/assets/procore/cac_payback_comparable.png)
+
+
 # Industry landscape
 
 The construction industry represented 13% of global GDP and ~7% of the workforce in 2017. (from [Procore’s S-1](https://sec.report/Document/0001193125-20-057081/#d564161ds1.htm))
@@ -107,19 +119,6 @@ The company has a net rentention rate of 117% in 2019, (125% in 2017 and 121% in
 
 ![nrr_comparable]({{ site.url }}/assets/procore/nrr_comparable.png)
 
-
-
-
-## Sales efficiency (implied months to pay back) 
-
-18-19 (better than median of 20)
-
-
-### ProCore's CAC and Sales Efficiency
-![cac_payback]({{ site.url }}/assets/procore/cac_payback.png)
-
-### Comparables for Implied Months to Pay Back
-![cac_payback_comparable]({{ site.url }}/assets/procore/cac_payback_comparable.png)
 
 
 ## SAAS Rule of 40
