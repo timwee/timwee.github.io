@@ -36,6 +36,8 @@ The now 1,900-strong company has filed to go public in February 2020, and will t
 
 ProCore started as a collaboration product for construction stakeholders, but has since gone on to introduce additional services for digitizing the various steps of the construction lifecycle.
 
+The company offers 13 different products/services today, but many of their products are new. For the majority of their history they only offered one product. They have rapidly expanded their product suite from four products in 2017 to the 13 today.
+
 The platform is increasingly becoming the system of record for customer projects, which helps increase switching costs for customers.
 
 Construction workflows are complex because they involve a lot of back and forth between stakeholders. An example workflow for a change request was included in the S-1:
@@ -50,11 +52,12 @@ ProCore believes that these collaborators can become potential paying customers 
 
 ProCore runs on AWS. I couldn't find more details about how much they spend on the cloud platform. 
 
+The company has also been increasing the number of add-on services. It started 2017 with 4 products, and has since added 3 products in 2018, and 4 products in 2019.
+
 The S-1 contains a chart of product introductions superimposed on customer growth numbers.
 
 ![history_roadmap]({{ site.url }}/assets/procore/history_roadmap.png)
 
-The company has also been increasing the number of add-on services. It started 2017 with 4 products, and has since added 3 products in 2018, and 4 products in 2019.
 Since Procore doesn’t charge for additional users and projects, they can only increase ARR/customer with additional product subscriptions.
 
 ## Sales and customer acquisition
