@@ -116,7 +116,7 @@ The company has a net rentention rate of 117% in 2019, (125% in 2017 and 121% in
 
 ```Net retention rate = ARR + upgrades - churn - downgrades.```
 
-(The table of comparable net retention rates below is from a 2019 Blossom Ventures post)
+(The table of comparable net retention rates below is from a [2019 Blossom Ventures post](https://blossomstreetventures.com/2019/06/24/net-vs-gross-dollar-retention-stats/))
 
 ![nrr_comparable]({{ site.url }}/assets/procore/nrr_comparable.png)
 
