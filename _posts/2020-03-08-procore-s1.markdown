@@ -145,9 +145,12 @@ ProCore doesn't quite meet the Rule of 40, though it was close in 2018.
 
 # Valuation
 
-Most 
+[Most SAAS companies](https://carta.com/blog/saas-company-valuations-ipo-alex-clayton/) are valued on multiples over next twelve months (NTM) revenue.
 
-**EV/NTM Revenue**
+**NTM Revenue Multiples for ProCore**
+
+From [Mertech Capital's post](https://www.meritechcapital.com/blog/procore-ipo-s-1-breakdown):
+
 ![valuation]({{ site.url }}/assets/procore/valuation.png)
  
 # Verdict
