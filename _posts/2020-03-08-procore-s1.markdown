@@ -149,7 +149,7 @@ ProCore doesn't quite meet the Rule of 40, though it was close in 2018.
 
 **NTM Revenue Multiples for ProCore**
 
-From [Mertech Capital's post](https://www.meritechcapital.com/blog/procore-ipo-s-1-breakdown):
+From [Meritech Capital's post](https://www.meritechcapital.com/blog/procore-ipo-s-1-breakdown):
 
 ![valuation]({{ site.url }}/assets/procore/valuation.png)
  
