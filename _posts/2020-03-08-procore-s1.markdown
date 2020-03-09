@@ -145,7 +145,9 @@ ProCore doesn't quite meet the Rule of 40, though it was close in 2018.
 
 # Valuation
 
-**EV/NTM**
+Most 
+
+**EV/NTM Revenue**
 ![valuation]({{ site.url }}/assets/procore/valuation.png)
  
 # Verdict
