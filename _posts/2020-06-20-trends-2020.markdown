@@ -48,7 +48,6 @@ This has played out previously in television, as well as print media, and will h
 * Payments
 * Subscription infrastructure 
 * Portability of connections (there is a possibility of new regulation here)
-* Authentication
 * Syncing across various devices. Storage as a service for all devices. Single/unified API for developers
 
 #### More individual creators going direct to consumer
