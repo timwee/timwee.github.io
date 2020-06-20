@@ -102,16 +102,6 @@ I don't have much to add, some additional thoughts:
 * We will increasingly see elements of the physical world reflected in the virtual world. (AR/VR)
 
 ***
-### Consumerization of enterprise products
-This trend will continue and has a long runaway.
-
-***
-### Healthcare
-
-Also a growing trend, esp with Covid and rise of biotech.
-
-
-***
 ### Structuring of unstructured data and automated addition of metadata 
 
 This is still relatively unexplored and has a lot of low hanging fruit IMO.
@@ -125,5 +115,16 @@ We are seeing some initial specialized use cases like Expensify, etc. and other 
 Instead of the big platforms as the main party making money off your information, new services will emerge that will help you monetize your personal information.
 
 There will be new ways for consumers to be compensated for sharing information with various degrees of identifiability: aggregated, pseudo-anonymized, identifiable.
+***
+### Consumerization of enterprise products
+This trend will continue and has a long runaway.
+
+***
+### Healthcare
+
+Also a growing trend, esp with Covid and rise of biotech.
+
+
+
 
  
