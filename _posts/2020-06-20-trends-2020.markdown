@@ -79,8 +79,7 @@ Smarter tools that can replicate what business developers from Accenture or Wipr
   * Intercom - customer interaction/support
   * Integration automation (zapier, etc) - replacing glue code typically done by infosys etc
 * Enterprise versions of these
-  * Cloud platforms
-  * MSFT
+  * [MSFT Power Automate](https://www.youtube.com/watch?v=NxJ2Zch7M2o)
   * Thoughtspot
 * Fast copier and acquirer
   * Salesforce
