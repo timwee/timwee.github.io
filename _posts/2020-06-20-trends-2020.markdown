@@ -37,6 +37,12 @@ Initially things have to be free/cheap to try to overcome people's skepticism to
 
 This has played out previously in television, as well as print media, and will happen as well for the internet.
 
+#### Paid version of free services
+* Email (Superhuman, Hey, etc.)
+* smaller/curated groups vs public social networks ([On Deck](https://www.beondeck.com), private Slack/Discord/Whatsapp groups, [Clubhouse](https://techcrunch.com/2020/04/18/clubhouse-app-chat-rooms/))
+* Paying for content
+  * News ([TheInformation](http://theinformation.com), Paid newsletters via Substack, [TheKen](http://the-ken.com))
+  * Podcasts
 
 #### What kind of infrastructure will be important?
 * Payments
@@ -48,7 +54,8 @@ This has played out previously in television, as well as print media, and will h
 #### More individual creators going direct to consumer
 * Substack for writers
 * Patreon for artists
-* Teachers making educational content, online classes, etc---Private version of groups, chat, etc
+* Teachers making educational content, online classes, etc
+* Private version of groups, chat, etc
 
 ***
 
@@ -74,7 +81,7 @@ We will likely see voice assistants and chat as the trigger for a workflow built
 
 
 ***
-# Ambient Computing - Computing Everywhere
+### Ambient Computing - Computing Everywhere
 
 * AR/VR will find it's killer app, especially with wider deployment of 5G.
 * Cars will be equipped with smart assistants.
@@ -83,7 +90,7 @@ We will likely see voice assistants and chat as the trigger for a workflow built
 Google, MSFT, and Apple are in the pole position here.
 
 ***
-# Gaming, Virtual Worlds, and Digital Goods
+### Gaming, Virtual Worlds, and Digital Goods
 
 [Matthew Ball](https://www.matthewball.vc/video-gaming) has done a great job covering the gaming world recently.
 
@@ -95,17 +102,17 @@ I don't have much to add, some additional thoughts:
 * We will increasingly see elements of the physical world reflected in the virtual world. (AR/VR)
 
 ***
-# Consumerization of enterprise products
+### Consumerization of enterprise products
 This trend will continue and has a long runaway.
 
 ***
-# Healthcare
+### Healthcare
 
 Also a growing trend, esp with Covid and rise of biotech.
 
 
 ***
-# Structuring of unstructured data and automated addition of metadata 
+### Structuring of unstructured data and automated addition of metadata 
 
 This is still relatively unexplored and has a lot of low hanging fruit IMO.
 Computer vision, OCR, and other ML building blocks are enabling new use cases.
@@ -113,7 +120,7 @@ Computer vision, OCR, and other ML building blocks are enabling new use cases.
 We are seeing some initial specialized use cases like Expensify, etc. and other enterprise use cases for smarter tooling and "cognitive" automation.
 
 ***
-# More control and choice over monetization of personal information
+### More control and choice over monetization of personal information
 
 Instead of the big platforms as the main party making money off your information, new services will emerge that will help you monetize your personal information.
 
