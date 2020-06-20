@@ -127,7 +127,9 @@ We are seeing some initial specialized use cases like Expensify, etc. and other 
 Instead of the big platforms as the main party making money off your information, new services will emerge that will help you monetize your personal information.
 
 There will be new ways for consumers to be compensated for sharing information with various degrees of identifiability: aggregated, pseudo-anonymized, identifiable.
+
 ***
+
 ### Consumerization of enterprise products
 This trend will continue and has a long runaway.
 
