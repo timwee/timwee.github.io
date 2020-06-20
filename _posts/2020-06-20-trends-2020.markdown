@@ -123,11 +123,13 @@ Computer vision, OCR, and other ML building blocks are enabling new use cases.
 We are seeing some initial specialized use cases like Expensify, etc. and other enterprise use cases for smarter tooling and "cognitive" automation.
 
 ***
-### More control and choice over monetization of personal information
+### More control and choice over monetization of personal information for the Developed World
 
 Instead of the big platforms as the main party making money off your information, new services will emerge that will help you monetize your personal information.
 
 There will be new ways for consumers to be compensated for sharing information with various degrees of identifiability: aggregated, pseudo-anonymized, identifiable.
+
+This will likely [not be true for NBU users](https://qz.com/1669754/tech-companies-misunderstand-the-next-billion-internet-users/).
 
 ***
 
