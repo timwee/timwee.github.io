@@ -78,7 +78,7 @@ We will likely see voice assistants and chat as the trigger for a workflow built
 ***
 # Ambient Computing
 
-* AR/VR will find it's killer app.
+* AR/VR will find it's killer app, especially with wider deployment of 5G.
 * Cars will be equipped with smart assistants.
 * More progress will be made for maintaining "state" across different surfaces. (You'll be able to pick up right where you left off across device transitions)
 
