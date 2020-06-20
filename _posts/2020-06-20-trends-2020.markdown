@@ -42,8 +42,8 @@ This has played out previously in television, as well as print media, and will h
 
 #### What kind of infrastructure will be important?
 * Payments
-* Subscription infrastructure (shopify or stripe for subscriptions)
-* Portability of connections
+* Subscription infrastructure 
+* Portability of connections (there is a possibility of new regulation here)
 * Authentication
 * Syncing across various devices. Storage as a service for all devices. Single/unified API for developers
 
