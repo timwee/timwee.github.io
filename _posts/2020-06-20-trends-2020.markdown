@@ -59,6 +59,18 @@ This has played out previously in television, as well as print media, and will h
 
 ***
 
+### NBU (Next Billion Users)
+
+We will increasingly see more localized products for non-first world countries with large populations.
+
+Some examples:
+
+* Indonesia ([GoJek](https://www.cnbc.com/2020/06/03/facebook-invests-in-indonesia-gojek.html), [Tokopedia](https://www.ft.com/content/ac24232e-3c1a-11ea-a01a-bae547046735), [Bukalapak](https://www.bloomberg.com/news/articles/2019-10-04/indonesia-online-mall-bukalapak-gets-funds-at-2-5-billion-value))
+* Philippines ([Kumu](https://techcrunch.com/2020/04/14/filipino-live-streaming-app-kumu-raises-5-million-series-a-led-by-openspace-ventures/), [Growsari](https://the-ken.com/sea/story/growsaris-key-to-the-philippines-sari-sari-treasure/))
+* India ([Google Tez](https://9to5google.com/2020/06/12/google-pay-shopping-revamp/), [Meesho](https://techcrunch.com/2019/08/11/meesho-india/))
+
+***
+
 ### UI-based No Code Tools, RPA
 
 #### Enterprise side
