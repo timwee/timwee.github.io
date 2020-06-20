@@ -54,7 +54,7 @@ This has played out previously in television, as well as print media, and will h
 
 ***
 
-### UI-based no-code, RPA
+### UI-based No Code Tools, RPA
 
 #### Enterprise side
 Smarter tools that can replicate what business developers from Accenture or Wipro can do.
