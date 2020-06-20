@@ -37,7 +37,7 @@ categories: investing
 ### More willingness by consumers to pay for services
 
 Technology adoption comes in waves. 
-Initially things have to be free (or cheap) to overcome people's skepticism to adopt, but as the value proposition grows, people will be more willing to pay for differentiated services.
+Initially things have to be free/cheap to try to overcome people's skepticism to adopt. But as the value proposition grows, people will be more willing to pay for differentiated services.
 
 This has played out previously in television, as well as print media, and will happen as well for the internet.
 
