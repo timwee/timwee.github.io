@@ -59,7 +59,7 @@ This has played out previously in television, as well as print media, and will h
 
 ***
 
-### NBU (Next Billion Users)
+### [NBU (Next Billion Users)](https://www.blog.google/technology/next-billion-users/)
 
 We will increasingly see more localized products for non-first world countries with large populations.
 
