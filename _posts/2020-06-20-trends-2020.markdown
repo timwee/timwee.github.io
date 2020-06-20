@@ -34,7 +34,7 @@ categories: investing
 
 # Some Random Thoughts
 
-## More willingness by consumers to pay for services
+### More willingness by consumers to pay for services
 
 Technology adoption comes in waves. 
 Initially things have to be free (or cheap) to overcome people's skepticism to adopt, but as the value proposition grows, people will be more willing to pay for differentiated services.
@@ -42,24 +42,25 @@ Initially things have to be free (or cheap) to overcome people's skepticism to a
 This has played out previously in television, as well as print media, and will happen as well for the internet.
 
 
-### What kind of infrastructure will be important?
+#### What kind of infrastructure will be important?
 * Payments
 * Subscription infrastructure (shopify or stripe for subscriptions)
 * Portability of connections
 * Authentication
 * Syncing across various devices. Storage as a service for all devices. Single/unified API for developers
 
-### More individual creators going direct to consumer
+#### More individual creators going direct to consumer
 * Substack for writers
 * Patreon for artists
 * Teachers making educational content, online classes, etc---Private version of groups, chat, etc
 
-*** 
+***
+
 # "No-code"
 
-## UI-based, RPA
+### UI-based, RPA
 
-### Enterprise side
+#### Enterprise side
 Smarter tools that can replicate what business developers from Accenture or Wipro can do.
 * Current no code products 
   * Airtable - manipulating data
@@ -72,7 +73,7 @@ Smarter tools that can replicate what business developers from Accenture or Wipr
   * Salesforce
   * MSFST
 
-### Voice assistants/chat
+#### Voice assistants/chat
 
 We will likely see voice assistants and chat as the trigger for a workflow built using RPA-like tools.
 
