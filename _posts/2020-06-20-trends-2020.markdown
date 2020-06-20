@@ -17,8 +17,6 @@ categories: investing
   * More advances in biotech
   * Better connectivity for NBU users
 * [Bundling/unbundling](https://hbr.org/2014/07/marc-andreessen-and-jim-barksdale-on-how-to-make-money)
-  * What will be bundled 
-  * What will be unbundled
 * Geopolitical trends
   * China vs US
   * The rise of Asia
