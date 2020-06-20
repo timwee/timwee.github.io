@@ -1,0 +1,129 @@
+---
+layout: post
+title:  "Brain Dump: Areas of growth from 2020-2030"
+date:   2020-06-20 12:07:29 -0400
+categories: investing
+---
+
+{:toc}
+
+# Brain Dump: Areas of growth from 2020-2030
+
+## Some questions to generate ideas:
+
+* What’s available from a premium perspective that can be adjusted for a larger market?
+  * And vice versa? (premium equivalents of free services)
+* What are the new developments that will enable new capabilities?
+  * 5G
+  * More powerful edge processors
+  * More advances in biotech
+  * Better connectivity for NBU users
+* [Bundling/unbundling](https://hbr.org/2014/07/marc-andreessen-and-jim-barksdale-on-how-to-make-money)
+  * What will be bundled 
+  * What will be unbundled
+* Geopolitical trends
+  * China vs US
+  * The rise of Asia
+* Demographic shifts 
+  * Aging population in many first world countries
+  * Demographic dividend in third world countries
+* What are some things that can’t keep becoming more (unsustainably) expensive
+  * US healthcare
+  * US university education
+  * Childcare
+
+***
+
+# Some Random Thoughts
+
+## More willingness by consumers to pay for services
+
+Technology adoption comes in waves. 
+Initially things have to be free (or cheap) to overcome people's skepticism to adopt, but as the value proposition grows, people will be more willing to pay for differentiated services.
+
+This has played out previously in television, as well as print media, and will happen as well for the internet.
+
+
+### What kind of infrastructure will be important?
+* Payments
+* Subscription infrastructure (shopify or stripe for subscriptions)
+* Portability of connections
+* Authentication
+* Syncing across various devices. Storage as a service for all devices. Single/unified API for developers
+
+### More individual creators going direct to consumer
+* Substack for writers
+* Patreon for artists
+* Teachers making educational content, online classes, etc---Private version of groups, chat, etc
+
+*** 
+# "No-code"
+
+## UI-based, RPA
+
+### Enterprise side
+Smarter tools that can replicate what business developers from Accenture or Wipro can do.
+* Current no code products 
+  * Airtable - manipulating data
+  * Intercom - customer interaction/support
+  * Integration automation (zapier, etc) - replacing glue code typically done by infosys etc
+* Enterprise versions of these (Thoughtspot, etc)
+  * Cloud platforms
+  * MSFT
+* Fast copier and acquirer
+  * Salesforce
+  * MSFST
+
+### Voice assistants/chat
+
+We will likely see voice assistants and chat as the trigger for a workflow built using RPA-like tools.
+
+
+
+***
+# Ambient Computing
+
+* AR/VR will find it's killer app.
+* Cars will be equipped with smart assistants.
+* More progress will be made for maintaining "state" across different surfaces. (You'll be able to pick up right where you left off across device transitions)
+
+Google, MSFT, and Apple are in the pole position here.
+
+***
+# Gaming, Virtual Worlds, and Digital Goods
+
+[Matthew Ball](https://www.matthewball.vc/video-gaming) has done a great job covering the gaming world recently.
+
+I don't have much to add, some additional thoughts:
+* Gaming will be bigger than the movie/TV industry in 5-10 years.
+* Gaming will become even more mainstream, more casual, and more social. (Discord, Fortnite are just the start)
+* Digital/virtual currencies will become a lot bigger, we will see more exchangeability between digital currencies and physical ones.
+* We will start to see advertising in games/virtual worlds.
+* We will increasingly see elements of the physical world reflected in the virtual world. (AR/VR)
+
+***
+# Consumerization of enterprise products
+This trend will continue and has a long runaway.
+
+***
+# Healthcare
+
+Also a growing trend, esp with Covid and rise of biotech.
+
+
+***
+# Structuring of unstructured data and automated addition of metadata 
+
+This is still relatively unexplored and has a lot of low hanging fruit IMO.
+Computer vision, OCR, and other ML building blocks are enabling new use cases.
+
+We are seeing some initial specialized use cases like Expensify, etc. and other enterprise use cases for smarter tooling and "cognitive" automation.
+
+***
+# More control and choice over monetization of personal information
+
+Instead of the big platforms as the main party making money off your information, new services will emerge that will help you monetize your personal information.
+
+There will be new ways for consumers to be compensated for sharing information with various degrees of identifiability: aggregated, pseudo-anonymized, identifiable.
+
+ 
