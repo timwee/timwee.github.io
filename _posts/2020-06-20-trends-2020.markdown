@@ -7,9 +7,7 @@ categories: investing
 
 {:toc}
 
-# Brain Dump: Areas of growth from 2020-2030
-
-## Some questions to generate ideas:
+# Prompts for thinking
 
 * What’s available from a premium perspective that can be adjusted for a larger market?
   * And vice versa? (premium equivalents of free services)
